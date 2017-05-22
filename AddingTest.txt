@@ -1,1 +1,3 @@
 Adding file to the README.md
+Modifying the file to check commit how it works.
+This the file only for checking
